@@ -169,3 +169,6 @@ rules.ninja
 !/.github/*.enc
 
 .vs
+
+*.dir
+        
